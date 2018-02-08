@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Art
+comment0.text=\n\ Art\ Project\ with\ Recursion\n\n\ @author\ HoqueDeepro\n\ @version\ 120517\n
+comment1.params=
+comment1.target=Art()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Art\n
+comment2.params=levels\ size
+comment2.target=void\ drawTriangle(int,\ double)
+comment2.text=\n\ draws\ a\ right\ triangle\ fractal\n\ @param\ \ levels,\ size\n
+comment3.params=levels\ size
+comment3.target=void\ drawUniverse(int,\ double)
+comment3.text=\n\ draws\ a\ universe\ fractal\ (overlapping\ circles\ within\ overlapping\ circles)\n\ @param\ \ levels,\ size\n
+comment4.params=x\ y\ angle
+comment4.target=void\ move_turn(double,\ double,\ double)
+numComments=5
